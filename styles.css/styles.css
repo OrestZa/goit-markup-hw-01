@@ -72,8 +72,8 @@
   line-height: 60px;
   text-align: center;
   letter-spacing: 0.02em;
-  /* color: #ffffff; */
-  color: red;
+  color: #ffffff;
+  background-color: goldenrod;
 }
 
 .secondary-title {
